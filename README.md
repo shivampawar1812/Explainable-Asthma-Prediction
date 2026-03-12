@@ -102,7 +102,32 @@ The LLM converts SHAP feature contributions into **human-readable explanations**
 
 Example explanation style:
 
-> The predicted asthma risk is influenced by factors such as smoking history, air pollution exposure, and reduced peak expiratory flow. These factors are known to increase respiratory stress and may contribute to a higher likelihood of asthma symptoms.
+> **Understanding Your Asthma Risk Estimate**
+
+1. **Key Factors**
+The following patient characteristics had the strongest influence on your estimated asthma risk:
+- Current or past smoking
+- Level of physical activity
+- Presence of allergies
+- Family history of asthma (which slightly lowered the risk)
+- Air pollution exposure (which slightly lowered the risk)
+- Body weight (which slightly lowered the risk)
+
+2. **Why These Factors Matter**
+- **Smoking**: Smoking irritates the airways, making them more sensitive and prone to inflammation. Over time, this can increase the likelihood of breathing difficulties and asthma-like symptoms.
+- **Physical Activity Level**: While regular activity is generally healthy, lower physical activity levels may be linked to weaker lung function or other health conditions that could contribute to breathing challenges.
+- **Allergies**: Allergies can trigger inflammation in the airways, making them more reactive and increasing the chance of asthma symptoms.
+- **Family History**: A family history of asthma can suggest a genetic tendency toward the condition, though in your case, this factor slightly reduced the estimated risk.
+
+3. **What This Means**
+Your estimated risk for asthma-related concerns is **higher than average**. This means that based on the factors above, you may have a greater chance of experiencing breathing difficulties or asthma symptoms. However, this is **not a diagnosis**—it is an estimate based on the information provided. Only a healthcare professional can evaluate your symptoms and determine if further assessment is needed.
+
+4. **General Health Considerations**
+- Avoiding smoking and secondhand smoke may help reduce airway irritation.
+- Managing allergies (e.g., reducing exposure to triggers) could support lung health.
+- Maintaining a healthy weight and staying physically active may benefit overall breathing and well-being.
+- Monitoring air quality and minimizing exposure to pollutants may also be helpful.
+
 
 ---
 
